@@ -1,0 +1,17 @@
+C:\Users\МырзабекДи\source\repos\AppForsecurity\AppForsecurity\bin\Debug\AppForsecurity.exe.config
+C:\Users\МырзабекДи\source\repos\AppForsecurity\AppForsecurity\bin\Debug\AppForsecurity.exe
+C:\Users\МырзабекДи\source\repos\AppForsecurity\AppForsecurity\bin\Debug\AppForsecurity.pdb
+C:\Users\МырзабекДи\source\repos\AppForsecurity\AppForsecurity\bin\Debug\EntityFramework.dll
+C:\Users\МырзабекДи\source\repos\AppForsecurity\AppForsecurity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\МырзабекДи\source\repos\AppForsecurity\AppForsecurity\bin\Debug\EntityFramework.xml
+C:\Users\МырзабекДи\source\repos\AppForsecurity\AppForsecurity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\МырзабекДи\source\repos\AppForsecurity\AppForsecurity\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\МырзабекДи\source\repos\AppForsecurity\AppForsecurity\obj\Debug\AppForSecurityGuard.csprojAssemblyReference.cache
+C:\Users\МырзабекДи\source\repos\AppForsecurity\AppForsecurity\obj\Debug\AppForSecurityGuard.csproj.CoreCompileInputs.cache
+C:\Users\МырзабекДи\source\repos\AppForsecurity\AppForsecurity\obj\Debug\AppForSecurityGuard.csproj.CopyComplete
+C:\Users\МырзабекДи\source\repos\AppForsecurity\AppForsecurity\obj\Debug\AppForsecurity.exe
+C:\Users\МырзабекДи\source\repos\AppForsecurity\AppForsecurity\obj\Debug\AppForsecurity.pdb
+C:\Users\МырзабекДи\source\repos\AppForsecurity\AppForsecurity\obj\Debug\AppForsecurity.Migrations.Migiration.resources
+C:\Users\МырзабекДи\source\repos\AppForsecurity\AppForsecurity\obj\Debug\AppForSecurityGuard.csproj.GenerateResource.cache
+C:\Users\МырзабекДи\source\repos\AppForsecurity\AppForsecurity\bin\Debug\Database.mdf
+C:\Users\МырзабекДи\source\repos\AppForsecurity\AppForsecurity\bin\Debug\Database_log.ldf
